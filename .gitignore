@@ -1,0 +1,4 @@
+bin/*
+build/*
+script/bench/output/*
+script/test/output/*.out
